@@ -1,0 +1,43 @@
+{
+  "language": "eng",
+  "license": "MIT",
+  "title": "wragge/tempy-mctemplate",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/wragge/tempy-mctemplate/tree/v0.0.0",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/new-project/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ],
+  "version": "v0.0.0",
+  "upload_type": "software",
+  "keywords": [
+    "digital humanities",
+    "Jupyter",
+    "GLAM Workbench"
+  ],
+  "publication_date": "2022-03-09",
+  "creators": {
+    "creator_list": [
+        {
+            "name": "Surname, Givenname",
+            "orcid": ""
+        }
+    ]
+},
+  "access_right": "open",
+  "description": ""
+}
